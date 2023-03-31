@@ -6,7 +6,7 @@
 }
 
 .header {
-    background-image: url(img/IMAGE\ \(2\).png);
+    background-image: url(/img/IMAGE\ \(2\).png);
     background-size: cover;
     width: 100%;
     height: 789px;
@@ -118,7 +118,7 @@
 }
 
 .dives1 {
-    background-image: url(img/IMAGE\ \(1\).png);
+    background-image: url(/img/IMAGE\ \(1\).png);
     width: 490px;
     height: 513px;
 }
@@ -132,7 +132,7 @@
 }
 
 .dives2 {
-    background-image: url(img/Div\ img.png);
+    background-image: url(/img/Div\ img.png);
     width: 550px;
     height: 513px;
     margin-left: 50px;
@@ -168,7 +168,7 @@
 }
 
 .dives3 {
-    background-image: url(img/divv_img.png);
+    background-image: url(/img/divv_img.png);
     width: 491px;
     height: 513px;
     margin-top: 20px;
@@ -185,7 +185,7 @@
 
 
 .dives4 {
-    background-image: url(img/div_img.png);
+    background-image: url(/img/div_img.png);
     width: 555px;
     height: 513px;
     margin: 20px 0 0 40px;
@@ -195,7 +195,7 @@
 .section2 {
     background-repeat: no-repeat;
     height: 600px;
-    background-image: url(img/beautiful.png);
+    background-image: url(/img/beautiful.png);
 }
 
 
@@ -237,7 +237,7 @@
 }
 
 .end_dives2 {
-    background-image: url(img/end_fon\ \(2\).png);
+    background-image: url(/img/end_fon\ \(2\).png);
     width: 703px;
     height: 545px;
     position: absolute;
@@ -289,7 +289,7 @@
 .section5 {
     width: 1423px;
     height: 600px;
-    background-image: url(img/fonn.png);
+    background-image: url(/img/fonn.png);
 }
 
 .section_img_text2 {
@@ -337,7 +337,7 @@
 }
 
 .section7 {
-    background-image: url(img/ended_fon.png);
+    background-image: url(/img/ended_fon.png);
     width: 1423px;
     height: 600px;
 }
